@@ -49,19 +49,19 @@ Business Analysis Queries.
 
 **Business Questions Solved**
 
-_Easy Level Analysis_
+_Easy Level Analysis_ :
 Senior most employee based on job title,
 Countries generating the highest number of invoices,
 Top 3 invoice values,
 City generating the highest revenue,
 Best customer based on total spending,
 
-_Moderate Level Analysis_
+_Moderate Level Analysis_ :
 Identify Rock music listeners,
 Top 10 Rock artists by track count,
 Songs longer than average track length,
 
-_Advanced Level Analysis_
+_Advanced Level Analysis_ :
 Amount spent by customers on each artist,
 Most popular music genre by country,
 Highest spending customer in each country.
