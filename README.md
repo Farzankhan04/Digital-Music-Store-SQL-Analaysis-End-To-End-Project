@@ -25,7 +25,7 @@ The database consists of multiple interconnected tables representing employees, 
 
 ### Entity Relationship Diagram (ERD)
 
-![Database Schema](MusicDatabaseSchema.png)
+![Database Schema](MusicDatabaseSchema%20(1).png)
 
 ---
 
