@@ -29,7 +29,9 @@ Playlist,
 PlaylistTrack,
 MediaType,
 
-_ER Diagram_
+## Database Schema
+
+![Database Schema](MusicDatabaseSchema%20(1).png)
 
 
 
