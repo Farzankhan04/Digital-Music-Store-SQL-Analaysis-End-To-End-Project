@@ -71,12 +71,15 @@ Highest spending customer in each country.
 _Customer Insights_ :
 Identified the highest spending customers,
 Discovered customer purchasing patterns across different countries.
+
 _Revenue Insights_
 Determined the cities generating maximum revenue,
 Found countries contributing the largest number of sales transactions.
+
 _Music Insights_ :
 Identified the most popular genres across regions,
 Ranked top-performing artists based on sales and track count.
+
 _Market Insights_ :
 Analyzed country-wise customer preferences,
 Determined the most popular genre for each country.
